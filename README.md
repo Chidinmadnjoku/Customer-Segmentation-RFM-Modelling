@@ -10,5 +10,5 @@ How long ago was their last transaction done?
 The RFM values which are -Recency which calculates how many days ago the customer transacted with the business, Frequency which
 calcutates the number of times they transact with the business and Monetary that calculates how much the customer's transaction is worth.
 
-The benefit of the RFM is that it helps the business with properly categorize their cusstomers based on their interaction with the business
+The benefit of the RFM is that it helps the business with properly categorize its customers based on their interaction with the business
 to enhavce effective targetting of marketing startegies.
