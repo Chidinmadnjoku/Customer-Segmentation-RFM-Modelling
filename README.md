@@ -11,4 +11,4 @@ The RFM values which are -Recency which calculates how many days ago the custome
 calcutates the number of times they transact with the business and Monetary that calculates how much the customer's transaction is worth.
 
 The benefit of the RFM is that it helps the business with properly categorize its customers based on their interaction with the business
-to enhavce effective targetting of marketing startegies.
+to enhance effective targetting of marketing startegies.
